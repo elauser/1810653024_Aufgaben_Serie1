@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5629893e-45a3-4a92-893e-58009c037e72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aufgabe4/Aufgabe5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="891" />
+          <entry key="java" value="1102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="891" />
+          <entry key="JAVA" value="1102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -61,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Aufgabe4/Aufgabe5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -88,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/newpackage/JavaClass.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java" />
+        <option value="$PROJECT_DIR$/src/Aufgabe4/Aufgabe5.java" />
       </list>
     </option>
   </component>
@@ -137,7 +148,21 @@
             <path>
               <item name="1810653024_Aufgaben_Serie1" type="b2602c69:ProjectViewProjectNode" />
               <item name="1810653024_Aufgaben_Serie1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="1810653024_Aufgaben_Serie1" type="462c0819:PsiDirectoryNode" />
+              <item name="Aufgabe4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1810653024_Aufgaben_Serie1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1810653024_Aufgaben_Serie1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1810653024_Aufgaben_Serie1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1810653024_Aufgaben_Serie1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aufgabe4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +175,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541666492370" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541666890076" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -165,9 +190,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aufgabe4">
+  <component name="RunManager" selected="Application.Aufgabe5">
     <configuration name="Aufgabe4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe4.Aufgabe4" />
+      <module name="1810653024_Aufgaben_Serie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aufgabe4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aufgabe5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe4.Aufgabe5" />
       <module name="1810653024_Aufgaben_Serie1" />
       <extension name="coverage">
         <pattern>
@@ -206,9 +244,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.JavaClass" />
       <item itemvalue="Application.Aufgabe4" />
+      <item itemvalue="Application.Aufgabe5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufgabe5" />
         <item itemvalue="Application.Aufgabe4" />
         <item itemvalue="Application.JavaClass" />
         <item itemvalue="Application.Main" />
@@ -225,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541663955893</updated>
-      <workItem from="1541663975575" duration="2800000" />
+      <workItem from="1541663975575" duration="3360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2800000" />
+    <option name="totallyTimeSpent" value="3360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -294,7 +334,14 @@
     <entry file="file://$PROJECT_DIR$/src/Aufgabe4/Aufgabe4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe4/Aufgabe5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
